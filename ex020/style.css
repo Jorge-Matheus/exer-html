@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+h1 {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+
+.mudandodois {
+    color: black;
+    text-align: left;
+    
+}
+
+
+hr {
+  
+    border
+    : none;
+      
+    border-top
+    : 
+    1px
+     solid black;
+      
+    margin
+    : 
+    1em
+     
+    0
+    ;
+    }

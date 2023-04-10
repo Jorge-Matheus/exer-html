@@ -1,0 +1,111 @@
+body {
+    background-color: rgba(255, 228, 196, 0.932);
+    margin: 0px;
+}
+
+header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: linear-gradient(to bottom,rgb(2, 102, 2), rgb(5, 172, 5));
+    height: 140px;
+    padding: 10px;
+    box-shadow: 3px 2px 3px 4px black;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.884);
+}
+
+#btn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    background-color: rgba(0, 8, 0, 0.432);
+    width: 362px;
+    border-radius: 3px;
+    box-shadow: 8px 8px 8px black;
+    height: 28px;
+    line-height: 28px;
+    margin-right: auto;
+}
+
+nav > a {
+    color: rgba(240, 248, 255, 0.87);
+    padding: 8px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+
+}
+
+main {
+    min-width: 300px;
+    max-width: 1000px;
+    background-color: white;
+    height: 2110px;
+    width: 800px;
+    margin: auto;
+    padding: 9px;
+    box-shadow: 0 0 5px black;
+    border-radius: 2px;
+
+
+}
+
+#h2perso {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    text-align: justify;
+}
+
+#artigos {
+    text-align: center;
+    text-align: justify;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#primeiraversao {
+    background-color: rgba(2, 122, 2, 0.479);
+    color: rgb(5, 63, 5);
+}
+ 
+#mascote {
+    background-color: rgba(4, 139, 4, 0.486);
+    color: rgb(5, 83, 5);
+}
+
+#centrofoto {
+    margin-left: 200px;
+}
+
+#video {
+    background-color: green;
+    box-shadow: 0px 0px 0px 9px rgb(3, 75, 3);
+}
+
+#lista1 {
+    background-color: rgba(3, 107, 3, 0.452);
+    padding-bottom: 10px;
+}
+
+
+#listatitulo {
+    background-color: green;
+    height: 40px;
+    padding: 10px;
+}
+
+#rodape {
+    font: normal 20pt Arial;
+    background-color: rgb(1, 78, 1);
+    color: white;
+    text-align: center;
+    height: 32px;
+
+
+    
+    
+}
